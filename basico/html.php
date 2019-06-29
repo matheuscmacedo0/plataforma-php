@@ -9,6 +9,8 @@ echo "\n";
 echo 'Mundo!'
 ?>
 
+teste
+
 <h2>Exemplo 2</h2>
 
 <?="Outra forma de exibir em PHP" ?>
