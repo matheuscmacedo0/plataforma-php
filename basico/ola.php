@@ -11,4 +11,8 @@ echo 'Mundo!'
 
 <h2>Exemplo 2</h2>
 
+
 <?="Outra forma de exibir em PHP" ?>
+
+<h2>Exemplo 3</h2>
+<h3>testando git no vscode</h3>

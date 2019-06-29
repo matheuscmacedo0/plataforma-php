@@ -9,7 +9,10 @@ echo "\n";
 echo 'Mundo!'
 ?>
 
-teste
+<h1>teste</h1>
+<h1>teste2</h1>
+
+
 
 <h2>Exemplo 2</h2>
 
