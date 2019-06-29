@@ -1,19 +1,17 @@
 <div class="titulo">Integração HTML</div>
 
-<h2>Exemplo 1</h2>
-
+<h1>
 
 <?php
 echo 'Olá ';
-echo "\n";
-echo 'Mundo!'
+echo '<small>';
+echo 'Mundo!';
+echo '</small>';
 ?>
 
-<h1>teste</h1>
-<h1>teste2</h1>
+</h1>
 
+<?= "<div>Outra forma de exibir!</div>" ?>
 
-
-<h2>Exemplo 2</h2>
-
-<?="Outra forma de exibir em PHP" ?>
+<br>
+<div><button><?= "Legal" ?></button></div>

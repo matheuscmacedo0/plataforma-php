@@ -19,7 +19,7 @@
                     <ul>
                         <li>
                             <a href="exercicio.php?dir=basico&file=ola">
-                            Ola PHP
+                            Olá PHP
                             </a>
                         </li>
                         <li>
