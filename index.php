@@ -48,13 +48,18 @@
                     <h3>Modulo 02</h3>
                     <ul>
                         <li>
-                            <a href="exercicio.php?dir=basico&file=int">
+                            <a href="exercicio.php?dir=tipos&file=int">
                             Tipo Inteiro
                             </a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=basico&file=float">
+                            <a href="exercicio.php?dir=tipos&file=float">
                             Tipo Float
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=tipos&file=aritmeticas">
+                            Operações Aritmeticas
                             </a>
                         </li>
                     </ul>
